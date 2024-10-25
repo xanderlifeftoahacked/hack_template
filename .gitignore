@@ -1,0 +1,6 @@
+cache/
+.vscode/
+__pycache__
+venv/
+.env
+./rust/target/
